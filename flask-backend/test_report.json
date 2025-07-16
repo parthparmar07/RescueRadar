@@ -1,0 +1,14 @@
+{
+  "description": "Found an injured dog on the street. It appears to have a hurt leg and is limping badly. The dog seems scared but approachable.",
+  "location": "Times Square, Manhattan, New York, NY",
+  "coordinates": {
+    "lat": 40.7580,
+    "lng": -73.9855
+  },
+  "contact_name": "Test Reporter",
+  "contact_email": "test@example.com",
+  "contact_phone": "+919892130048",
+  "urgency_level": "high",
+  "animal_type": "dog",
+  "situation_type": "injury"
+}

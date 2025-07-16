@@ -1,0 +1,75 @@
+[
+  {
+    "id": "6fe997cc-a050-459c-b79c-062de703b2a3",
+    "description": "Found an injured dog on the street. It appears to have a hurt leg and is limping badly. The dog seems scared but approachable.",
+    "location": "Times Square, Manhattan, New York, NY",
+    "coordinates": {
+      "lat": 40.758,
+      "lng": -73.9855
+    },
+    "contact_name": "Test Reporter",
+    "contact_email": "test@example.com",
+    "contact_phone": "+919892130048",
+    "urgency_level": "high",
+    "animal_type": "dog",
+    "situation_type": "injury",
+    "image_url": null,
+    "ai_analysis": null,
+    "status": "active",
+    "created_at": "2025-07-13T21:18:33.623354"
+  },
+  {
+    "id": "2473c72e-3628-4329-acca-f4bdf7f9fbb1",
+    "description": "Emergency: Injured dog found near Times Square. The dog appears to have been hit by a vehicle and is bleeding from the leg. It's conscious but clearly in pain and needs immediate medical attention.",
+    "location": "Times Square, 7th Avenue & 42nd Street, Manhattan, New York, NY",
+    "coordinates": {
+      "lat": 40.758,
+      "lng": -73.9855
+    },
+    "contact_name": "Gaurav Patil",
+    "contact_email": "gauravpatil2516@gmail.com",
+    "contact_phone": "+919892130048",
+    "urgency_level": "emergency",
+    "animal_type": "dog",
+    "situation_type": "injury",
+    "image_url": null,
+    "ai_analysis": null,
+    "status": "active",
+    "created_at": "2025-07-13T21:26:52.453293"
+  },
+  {
+    "id": "b8693e07-5c65-47a7-82a0-f0437e572286",
+    "description": "Test report: Dog needs rescue in park",
+    "location": "123 Main Street, Test City",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "contact_name": "John Doe",
+    "contact_email": "siesgauravpatil@gmail.com",
+    "contact_phone": "+1234567890",
+    "urgency_level": "high",
+    "animal_type": "dog",
+    "situation_type": "injury",
+    "image_url": null,
+    "ai_analysis": null,
+    "status": "active",
+    "created_at": "2025-07-14T01:35:56.998240"
+  },
+  {
+    "id": "143ad2bd-b1f9-4f67-8ecf-c137ea7b3f17",
+    "description": "\"A stray dog was hit by a bike and is lying injured near the main road. It is bleeding from the leg and unable to move.\"",
+    "location": "Rajvaibhav NX, Building No. 1, Ganesh Nagar, Trimurti Society, Dombivli West, Dombivli, Maharashtra 421202, India",
+    "coordinates": null,
+    "contact_name": "Chirayu Sanjay Marathe",
+    "contact_email": "omkarmohite11111@gmail.com",
+    "contact_phone": "7715049797",
+    "urgency_level": "high",
+    "animal_type": "dog",
+    "situation_type": "injury",
+    "image_url": null,
+    "ai_analysis": null,
+    "status": "active",
+    "created_at": "2025-07-14T19:24:59.436021"
+  }
+]

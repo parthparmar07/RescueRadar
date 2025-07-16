@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-07-14T01:36:01.354577",
+    "to_email": "siesgauravpatil@gmail.com",
+    "subject": "\ud83c\udd98 URGENT: Animal Rescue Report #b8693e07",
+    "success": true,
+    "method": "gmail_smtp",
+    "message_id": "gmail_1752437161.354392",
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-14T01:36:04.744504",
+    "to_email": "siesgauravpatil@gmail.com",
+    "subject": "\u2705 Report Confirmation - #b8693e07",
+    "success": true,
+    "method": "gmail_smtp",
+    "message_id": "gmail_1752437164.743979",
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-14T19:25:05.387955",
+    "to_email": "siesgauravpatil@gmail.com",
+    "subject": "\ud83c\udd98 URGENT: Animal Rescue Report #143ad2bd",
+    "success": true,
+    "method": "gmail_smtp",
+    "message_id": "gmail_1752501305.386893",
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-14T19:25:08.130544",
+    "to_email": "omkarmohite11111@gmail.com",
+    "subject": "\u2705 Report Confirmation - #143ad2bd",
+    "success": true,
+    "method": "gmail_smtp",
+    "message_id": "gmail_1752501308.130142",
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-16T11:53:19.370228",
+    "to_email": "siesgauravpatil@gmail.com",
+    "subject": "Test Email from RescueRadar",
+    "success": true,
+    "method": "gmail_smtp",
+    "message_id": "gmail_1752646999.369702",
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-16T12:40:27.335776",
+    "to_email": "siesgauravpatil@gmail.com",
+    "subject": "\ud83c\udd98 EMERGENCY: Animal Rescue Report #RR-70A6F",
+    "success": true,
+    "method": "gmail_smtp",
+    "message_id": "gmail_1752649827.335612",
+    "error": null
+  }
+]
