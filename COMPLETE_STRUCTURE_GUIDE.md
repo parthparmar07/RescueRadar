@@ -77,7 +77,7 @@ python app.py
 ### Frontend (.env.local)
 ```bash
 NEXT_PUBLIC_API_URL=http://localhost:5000  # Points to Flask backend
-NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=AIzaSyD2t6bQkQa9uc-ePInTi_0c4L8_yrv6ofc
+NEXT_PUBLIC_GOOGLE_MAPS_API_KEY= USE YOUR OWN API KEY
 ```
 
 ### Backend (.env)
